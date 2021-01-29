@@ -30,6 +30,8 @@ dependencies:
   cupertino_icons: ^0.1.3
   animate_do: ^1.7.5
   font_awesome_flutter: ^8.11.0
+  passwordfield: ^0.0.82
+  sign_button: ^1.0.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
